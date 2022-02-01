@@ -3,3 +3,30 @@
     padding: 0px;
     margin: 0px;
 }
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    padding: 5% 30%;
+}
+.scarpa1{
+    width: 100%;
+    height: 70%;
+    background-color: red;
+    position: relative;
+    background-position: center;
+}
+.scarpa2{
+    width: 100%;
+    height: 70%;
+    background-color: yellow;
+    position: relative;
+    background-position: center;
+}
+.scarpa3{
+    width: 100%;
+    height: 70%;
+    background-color: green;
+    position: relative;
+    background-position: center;
+}
